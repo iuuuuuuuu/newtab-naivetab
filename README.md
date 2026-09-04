@@ -9,6 +9,9 @@
     <a href="https://github.com/GXFG/newtab-naivetab/stargazers">
       <img src="https://img.shields.io/github/stars/GXFG/newtab-naivetab?style=flat-square" alt="Stars" />
     </a>
+    <a href="https://hellogithub.com/repository/GXFG/newtab-naivetab" target="_blank">
+      <img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=d621bba94899492f9caa1aec16526841&claim_uid=yeYXT1EUJjxwl0S&theme=small" alt="Featured｜HelloGitHub" />
+    </a>
   </p>
   <p>
     English | <a href="https://github.com/GXFG/newtab-naivetab/blob/main/README_CN.md">中文</a>
